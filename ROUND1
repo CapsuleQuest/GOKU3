@@ -8,16 +8,6 @@
 
 
 
-{
-  "title": "GOKU ROYALE 3 - ROUND 1",
-  "description": "A compilation of every Round 1 GOKU ROYALE 3 comic. If something looks off, please message capsule",
-  "artist": "-",
-  "author": "The creator of each comic has been placed after the characters fighting",
-  "cover": "https://i.imgur.com/ooHXuCa.png",
-  "chapters": {
-
-
-
 "1": {"title": "Kya VS. Hunter (by Jojo404)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/LMw6K9d/"},"last_updated": "1638248340"},
 "2": {"title": "Hunter VS. Kya (by Sukoshi)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/ft6whYv/"},"last_updated": "1638248340"},
 "3": {"title": "Alina VS. Dorian and His Picture (by Herbyherb)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/HhYiUwF/"},"last_updated": "1638248340"},
@@ -103,15 +93,6 @@
 "112": {"title": "Masaki Sako VS. Sanston (by Ice Cue)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/IjymMaN/"},"last_updated": "1638248340"},
 "113": {"title": "Insetto VS. Bismuth and Grimoire Gris (by Gen)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/klWe6Hr/"},"last_updated": "1638248340"},
 "114": {"title": "Bismuth and Grimoire Gris VS. Insetto (by Doodle)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/jwIjYgy/"},"last_updated": "1638248340"}
-
-
-
-}
-
-}
-
-
-
 
 
 

@@ -8,6 +8,16 @@
 
 
 
+{
+  "title": "GOKU ROYALE 3 - ROUND 1",
+  "description": "A compilation of every Round 1 GOKU ROYALE 3 comic. If something looks off, please message capsule",
+  "artist": "-",
+  "author": "The creator of each comic has been placed after the characters fighting",
+  "cover": "https://i.imgur.com/ooHXuCa.png",
+  "chapters": {
+
+
+
 "1": {"title": "Kya VS. Hunter (by Jojo404)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/LMw6K9d/"},"last_updated": "1638248340"},
 "2": {"title": "Hunter VS. Kya (by Sukoshi)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/ft6whYv/"},"last_updated": "1638248340"},
 "3": {"title": "Alina VS. Dorian and His Picture (by Herbyherb)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/HhYiUwF/"},"last_updated": "1638248340"},
@@ -16,7 +26,6 @@
 "9": {"title": "Sigmund VS. Hatsune Mikuad'Dib (by Sketch)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/NWGAucp/"},"last_updated": "1638248340"},
 "10": {"title": "Hatsune Mikuad'Dib VS. Sigmund (by Budd)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/8BlQJ5R/"},"last_updated": "1638248340"},
 "11": {"title": "Johan Joestar VS. Ichiro Akagi (by Macro)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/MVB0QH6/"},"last_updated": "1638248340"},
-"12": {"title": "Ichiro Akagi VS. Johan Joestar (by Faraam)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/N1eUlJq/"},"last_updated": "1638248340"},
 "13": {"title": "Suzanne Marigold VS. Task Force GG (by Blastron)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/e6SlS6S/"},"last_updated": "1638248340"},
 "14": {"title": "Task Force GG VS. Suzanne Marigold (by Mr Kent)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/6oeaVI6/"},"last_updated": "1638248340"},
 "15": {"title": "Karen Cake VS. Monkey Wrench (by nameless)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/ASeYMzv/"},"last_updated": "1638248340"},
@@ -27,7 +36,6 @@
 "20": {"title": "Honeymoon Office VS. Velka Prime (by Kazar)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/MGN87i9/"},"last_updated": "1638248340"},
 "25": {"title": "Captain Redfrond VS. W1N5L0W L3ACH (by Saverin)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/rLY22K5/"},"last_updated": "1638248340"},
 "26": {"title": "W1N5L0W L3ACH VS. Captain Redfrond (by Spaghetti)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/yvGNRBV/"},"last_updated": "1638248340"},
-"28": {"title": "Nihilog The Space Vampire VS. Umbrella Girl (by Master Plag)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/bOFB54t/"},"last_updated": "1638248340"},
 "29": {"title": "Pizza Knight VS. Violeta (by Crowrags)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/kVklIKz/"},"last_updated": "1638248340"},
 "30": {"title": "Violeta VS. Pizza Knight (by Invader Diz)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/wjk7mSs/"},"last_updated": "1638248340"},
 "31": {"title": "Wyatt The Worm VS. Dead Game (by L-Mop)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/2FaKFER/"},"last_updated": "1638248340"},
@@ -46,12 +54,10 @@
 "47": {"title": "Luf VS. Roger Fox Taylor, Ratflame, The Player (by Crayon Jackie)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/HkcTM5a/"},"last_updated": "1638248340"},
 "48": {"title": "Roger Fox Taylor, Ratflame, The Player VS. Luf (by Randomtonio)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/ju22JlV/"},"last_updated": "1638248340"},
 "49": {"title": "Princess Page VS. Edith and Havoc (by Mr.Fifi)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/0NKucMM/"},"last_updated": "1638248340"},
-"52": {"title": "Brianna Bateman and Herobrianna VS. Robert Campbell (by Bri)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/yRnLynU/"},"last_updated": "1638248340"},
 "53": {"title": "Stray_Dog VS. Rooster (by Mithryl, Rusty)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/xmCckzi/"},"last_updated": "1638248340"},
 "54": {"title": "Rooster VS. Stray_Dog (by Mintytree)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/ysC64FY/"},"last_updated": "1638248340"},
 "55": {"title": "Tank Master Goa 'Untang VS. Velos (by Mokan)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/ZyqAlwW/"},"last_updated": "1638248340"},
 "56": {"title": "Velos VS. Tank Master Goa 'Untang (by Kris M)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/ZVDv8u7/"},"last_updated": "1638248340"},
-"57": {"title": "S-RAG/RAGGY VS. Nonstop Yapper (by Magicdoge)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/bJudIJL/"},"last_updated": "1638248340"},
 "59": {"title": "BiBi VS. King Blizzard and Lizzard the Gizzard Wizard (by Randio)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/nzjiy07/"},"last_updated": "1638248340"},
 "60": {"title": "King Blizzard and Lizzard the Gizzard Wizard VS. BiBi (by Reid)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/iXHZuDT/"},"last_updated": "1638248340"},
 "62": {"title": "Barnokk & BG3 Narrator VS. Denji Waterson (by Heron)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/ejaJL2q/"},"last_updated": "1638248340"},
@@ -82,10 +88,8 @@
 "92": {"title": "Chari Vari VS. Lil' Smooch (by Drygrasses)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/khetffF/"},"last_updated": "1638248340"},
 "93": {"title": "Shawwaters Incredible Fencing Doll VS. Connie (by Butterflyriver)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/w1pBnkR/"},"last_updated": "1638248340"},
 "94": {"title": "Connie VS. Shawwaters Incredible Fencing Doll (by CRxTR Dude)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/7WDu2Ib/"},"last_updated": "1638248340"},
-"95": {"title": "Octopus Kirby VS. Wilson O'Harris (by fernandez69420)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/pM1K1mi/"},"last_updated": "1638248340"},
 "97": {"title": "KING AEROVIN AND HIS ROYAL GUARD VS. Necron Warrior (by Revil)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/N7Dy2Nf/"},"last_updated": "1638248340"},
 "98": {"title": "Necron Warrior VS. KING AEROVIN AND HIS ROYAL GUARD (by Baba)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/rORtgYC/"},"last_updated": "1638248340"},
-"99": {"title": "Mars VS. Bread (by Hysoscella)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/7EV9XBY/"},"last_updated": "1638248340"},
 "100": {"title": "Bread VS. Mars (by Bluegill)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/ljcruZi/"},"last_updated": "1638248340"},
 "101": {"title": "Frost VS. Kanta Chi (by Panic)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/LSQoLXq/"},"last_updated": "1638248340"},
 "102": {"title": "Kanta Chi VS. Frost (by Chris)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/MVMWuHu/"},"last_updated": "1638248340"},
@@ -99,6 +103,14 @@
 "112": {"title": "Masaki Sako VS. Sanston (by Ice Cue)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/IjymMaN/"},"last_updated": "1638248340"},
 "113": {"title": "Insetto VS. Bismuth and Grimoire Gris (by Gen)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/klWe6Hr/"},"last_updated": "1638248340"},
 "114": {"title": "Bismuth and Grimoire Gris VS. Insetto (by Doodle)","volume": "1","groups": {"Imgur": "/proxy/api/imgur/chapter/jwIjYgy/"},"last_updated": "1638248340"}
+
+
+
+}
+
+}
+
+
 
 
 
